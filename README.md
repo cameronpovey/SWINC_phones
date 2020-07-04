@@ -5,4 +5,4 @@ Create your very own phone and compete with other major phone brands such as pea
  - CellPhone
  - SmartPhone - Unlocks 1995
  
- ![In game Screenshot](https://imgur.com/a/4LNBTib)
+![Software Types](https://i.imgur.com/v3JguMe.png)
