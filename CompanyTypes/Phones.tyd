@@ -1,0 +1,14 @@
+CompanyType
+	{
+	Specialization		Phones
+	PerYear				0.2
+	Min					4
+	Max					8
+	Types
+		[
+			{
+			Software	Mobile Phone
+			Chance		0.5
+			}
+		]
+	}

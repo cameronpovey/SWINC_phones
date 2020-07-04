@@ -1,0 +1,18 @@
+-start(base,base2)
+-base(base2,end)
+Noxia
+RED
+Sumsang
+Rough
+-base2(end,stop)
+ 3301
+ 160
+ 806
+ Bric
+ life
+ Phone
+-end(stop)
+ C
+ V
+ X
+ Z

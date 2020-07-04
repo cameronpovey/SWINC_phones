@@ -1,0 +1,28 @@
+-start(base,base3)
+-base(base2,end)
+Accle
+SumSang
+Noogle
+Wundoos
+-base2(base3,end,stop)
+ e
+ Cosmo
+ C
+ R
+-base3(end,stop)
+Mokia
+Phone
+Mobile
+-end(stop)
+X
+Pro
+XR
+C
+E
+Slim
+ X
+ Pro
+ XR
+ C
+ E
+ Slim
